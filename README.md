@@ -13,13 +13,13 @@ To run:
 API Method Testing:
 
 getById http://localhost:8080/businesscard/participant/{ICD}/{EnterpriseNumber}
-e.g: http://localhost:8080/businesscard/participant/9956/0724486664
+<br/>e.g: http://localhost:8080/businesscard/participant/9956/0724486664
 
 searchByName http://localhost:8080/businesscard/entity/name/search/{nameToSearch}
-e.g: http://localhost:8080/businesscard/entity/name/search/LUND%20AS
+<br/>e.g: http://localhost:8080/businesscard/entity/name/search/LUND%20AS
 
 getByName http://localhost:8080/businesscard/entity/name/get/{name}
-e.g: http://localhost:8080/businesscard/entity/name/get/GULENG%20AS
+<br/>e.g: http://localhost:8080/businesscard/entity/name/get/GULENG%20AS
 
 
 *Will provide Postman collection for testing later
